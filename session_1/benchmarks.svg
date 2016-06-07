@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="203.2mm" height="125.58mm" viewBox="0 0 203.2 125.58"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-1">
+  <g class="guide xlabels" font-size="2.82" font-family="Georgia" fill="#6C606B" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-2">
+    <text x="20.13" y="119.58" text-anchor="middle">Fortran</text>
+    <text x="35.1" y="119.58" text-anchor="middle">Go</text>
+    <text x="50.08" y="119.58" text-anchor="middle">Java</text>
+    <text x="65.05" y="119.58" text-anchor="middle">JavaScript</text>
+    <text x="80.03" y="119.58" text-anchor="middle">Julia</text>
+    <text x="95" y="119.58" text-anchor="middle">Lua</text>
+    <text x="109.98" y="119.58" text-anchor="middle">Mathematica</text>
+    <text x="124.95" y="119.58" text-anchor="middle">Matlab</text>
+    <text x="139.93" y="119.58" text-anchor="middle">Octave</text>
+    <text x="154.9" y="119.58" text-anchor="middle">Python</text>
+    <text x="169.88" y="119.58" text-anchor="middle">R</text>
+  </g>
+  <g class="guide colorkey" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-3">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-4">
+      <text x="181.18" y="51.41" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-5" class="color_mandel">mandel</text>
+      <text x="181.18" y="55.04" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-6" class="color_parse_int">parse_int</text>
+      <text x="181.18" y="58.66" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-7" class="color_pi_sum">pi_sum</text>
+      <text x="181.18" y="62.29" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-8" class="color_printfd">printfd</text>
+      <text x="181.18" y="65.92" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-9" class="color_quicksort">quicksort</text>
+      <text x="181.18" y="69.54" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-10" class="color_rand_mat_mul">rand_mat_mul</text>
+      <text x="181.18" y="73.17" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-11" class="color_rand_mat_stat">rand_mat_stat</text>
+    </g>
+    <g stroke="none" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-12">
+      <circle cx="179.18" cy="51.41" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-13" fill="#00BFFF" class="color_mandel"/>
+      <circle cx="179.18" cy="55.04" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-14" fill="#D4CA3A" class="color_parse_int"/>
+      <circle cx="179.18" cy="58.66" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-15" fill="#FF5EA0" class="color_pi_sum"/>
+      <circle cx="179.18" cy="62.29" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-16" fill="#00E5B2" class="color_printfd"/>
+      <circle cx="179.18" cy="65.92" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-17" fill="#F6A6FF" class="color_quicksort"/>
+      <circle cx="179.18" cy="69.54" r="0.91" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-18" fill="#9E9E9E" class="color_rand_mat_mul"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="none" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-19">
+      <text x="178.37" y="47.59" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-20">benchmark</text>
+    </g>
+  </g>
+  <g clip-path="url(#fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-22)" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-21">
+    <g pointer-events="visible" opacity="1" fill="none" stroke="none" class="guide background" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-23">
+      <rect x="12.64" y="5" width="164.73" height="110.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-24"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-25">
+      <path fill="none" d="M12.64,113.95 L 177.37 113.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-26"/>
+      <path fill="none" d="M12.64,92.56 L 177.37 92.56" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-27"/>
+      <path fill="none" d="M12.64,71.17 L 177.37 71.17" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-28"/>
+      <path fill="none" d="M12.64,49.78 L 177.37 49.78" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-29"/>
+      <path fill="none" d="M12.64,28.39 L 177.37 28.39" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-30"/>
+      <path fill="none" d="M12.64,7 L 177.37 7" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-31"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-32">
+      <path fill="none" d="M27.62,5 L 27.62 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-33"/>
+      <path fill="none" d="M42.59,5 L 42.59 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-34"/>
+      <path fill="none" d="M57.57,5 L 57.57 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-35"/>
+      <path fill="none" d="M72.54,5 L 72.54 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-36"/>
+      <path fill="none" d="M87.52,5 L 87.52 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-37"/>
+      <path fill="none" d="M102.49,5 L 102.49 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-38"/>
+      <path fill="none" d="M117.47,5 L 117.47 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-39"/>
+      <path fill="none" d="M132.44,5 L 132.44 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-40"/>
+      <path fill="none" d="M147.42,5 L 147.42 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-41"/>
+      <path fill="none" d="M162.39,5 L 162.39 115.95" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-42"/>
+    </g>
+    <g class="plotpanel" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-43">
+      <g class="geometry" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-44">
+        <g stroke-width="0.3" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-45">
+          <circle cx="20.13" cy="93.82" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-46" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="35.1" cy="91.09" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-47" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="50.08" cy="96.11" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-48" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="65.05" cy="86.82" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-49" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="80.03" cy="93.86" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-50" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="95" cy="95.81" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-51" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="109.98" cy="75.74" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-52" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="124.95" cy="54.51" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-53" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="139.93" cy="37.04" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-54" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="154.9" cy="65.29" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-55" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="169.88" cy="54.69" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-56" stroke="#FFFFFF" fill="#00BFFF" class="color_mandel"/>
+          <circle cx="20.13" cy="78.24" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-57" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="35.1" cy="80.22" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-58" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="50.08" cy="76.85" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-59" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="65.05" cy="84.87" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-60" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="80.03" cy="88.38" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-61" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="95" cy="75.78" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-62" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="109.98" cy="65.87" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-63" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="124.95" cy="24.46" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-64" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="139.93" cy="9.59" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-65" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="154.9" cy="64.51" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-66" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="169.88" cy="55.45" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-67" stroke="#FFFFFF" fill="#D4CA3A" class="color_parse_int"/>
+          <circle cx="20.13" cy="94.26" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-68" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="35.1" cy="90.65" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-69" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="50.08" cy="92.55" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-70" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="65.05" cy="85.44" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-71" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="80.03" cy="92.56" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-72" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="95" cy="92.56" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-73" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="109.98" cy="90.31" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-74" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="124.95" cy="90.3" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-75" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="139.93" cy="40.89" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-76" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="154.9" cy="64.25" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-77" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="169.88" cy="67.75" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-78" stroke="#FFFFFF" fill="#FF5EA0" class="color_pi_sum"/>
+          <circle cx="50.08" cy="76.55" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-79" stroke="#FFFFFF" fill="#00E5B2" class="color_printfd"/>
+          <circle cx="80.03" cy="87.18" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-80" stroke="#FFFFFF" fill="#00E5B2" class="color_printfd"/>
+          <circle cx="124.95" cy="50.76" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-81" stroke="#FFFFFF" fill="#00E5B2" class="color_printfd"/>
+          <circle cx="139.93" cy="51.82" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-82" stroke="#FFFFFF" fill="#00E5B2" class="color_printfd"/>
+          <circle cx="20.13" cy="91.66" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-83" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="35.1" cy="91.74" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-84" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="50.08" cy="87.91" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-85" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="65.05" cy="82.63" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-86" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="80.03" cy="90.76" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-87" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="95" cy="86.12" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-88" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="109.98" cy="56.51" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-89" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="124.95" cy="55.19" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-90" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="139.93" cy="24.42" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-91" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="154.9" cy="56.85" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-92" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="169.88" cy="41.33" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-93" stroke="#FFFFFF" fill="#F6A6FF" class="color_quicksort"/>
+          <circle cx="20.13" cy="79.56" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-94" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="35.1" cy="72.73" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-95" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="50.08" cy="84.62" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-96" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="65.05" cy="67.67" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-97" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="80.03" cy="91.79" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-98" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="95" cy="90.62" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-99" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="109.98" cy="91.42" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-100" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="124.95" cy="91.55" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-101" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="139.93" cy="91.98" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-102" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="154.9" cy="91.88" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-103" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="169.88" cy="88" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-104" stroke="#FFFFFF" fill="#9E9E9E" class="color_rand_mat_mul"/>
+          <circle cx="20.13" cy="92.66" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-105" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="35.1" cy="72.98" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-106" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="50.08" cy="79.65" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-107" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="65.05" cy="82.97" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-108" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="80.03" cy="87.43" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-109" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="95" cy="80.37" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-110" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="109.98" cy="75.62" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-111" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="124.95" cy="71.34" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-112" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="139.93" cy="60.83" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-113" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="154.9" cy="63.73" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-114" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+          <circle cx="169.88" cy="66.31" r="1" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-115" stroke="#FFFFFF" fill="#FF928B" class="color_rand_mat_stat"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="Georgia" fill="#6C606B" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-116">
+    <text x="11.64" y="113.95" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-117">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">-1</tspan><tspan dy="0.498000em"></tspan></text>
+    <text x="11.64" y="92.56" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-118">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">0</tspan><tspan dy="0.498000em"></tspan></text>
+    <text x="11.64" y="71.17" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-119">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">1</tspan><tspan dy="0.498000em"></tspan></text>
+    <text x="11.64" y="49.78" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-120">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">2</tspan><tspan dy="0.498000em"></tspan></text>
+    <text x="11.64" y="28.39" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-121">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">3</tspan><tspan dy="0.498000em"></tspan></text>
+    <text x="11.64" y="7" text-anchor="end" dy="0.35em" id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-122">10<tspan style="dominant-baseline:inherit" dy="-0.6em" font-size="83%">4</tspan><tspan dy="0.498000em"></tspan></text>
+  </g>
+</g>
+<defs>
+<clipPath id="fig-9fec0f9deb2b48348d19ba5c976ed0e9-element-22">
+  <path d="M12.64,5 L 177.37 5 177.37 115.95 12.64 115.95" />
+</clipPath
+></defs>
+</svg>
